@@ -1,4 +1,4 @@
-👋 Hi, I’m @Abdelali-Malki
+
 Full stack web & mobile developer
 
 <!---
